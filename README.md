@@ -2,6 +2,10 @@
 
 A simple search plant web-application.
 
+## Prerequisites
+
+Install nodejs on your computer : https://nodejs.org/
+
 ## Getting Started
 
 1 - Download or clone the repository on your own machine
